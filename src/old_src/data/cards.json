@@ -1,0 +1,56 @@
+[
+    {
+        "id": {
+            "idUnique": "1"
+        },
+        "contenido": {
+            "tipo": "evento",
+            "ubicacion": "Malaga"
+        }
+    },
+    {
+        "id": {
+            "idUnique": "2"
+        },
+        "contenido": {
+            "tipo": "noticias",
+            "ubicacion": "montmelo"
+        }
+    },
+    {
+        "id": {
+            "idUnique": "3"
+        },
+        "contenido": {
+            "tipo": "rrss",
+            "ubicacion": "Barcelona"
+        }
+    },
+    {
+        "id": {
+            "idUnique": "4"
+        },
+        "contenido": {
+            "tipo": "egfdggfdfo",
+            "ubicacion": "Maldfgfdf"
+        }
+    },
+    {
+        "id": {
+            "idUnique": "5"
+        },
+        "contenido": {
+            "tipo": "evedfgto",
+            "ubicacion": "dfgdfgMalaga"
+        }
+    },
+    {
+        "id": {
+            "idUnique": "7"
+        },
+        "contenido": {
+            "tipo": "evendgfdto",
+            "ubicacion": "ffa"
+        }
+    }
+]

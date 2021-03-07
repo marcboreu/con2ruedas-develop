@@ -1,0 +1,94 @@
+.card-header, .card-header-li  {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+.card-footer, .card-footer-li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.card-footer .card-footer-li .name-author-card {
+    background-color: transparent;
+}
+
+
+.card-footer .card-footer-li .button-share-card {
+    background-color: transparent;
+}
+
+.ui.icon.button.button-type-content-card {
+    margin-right: 0px!important;
+}
+.ui.red.horizontal.label.category-card-label {
+    margin: 0px!important;
+}
+
+.ui.card {
+    margin: 0px 0px!important;
+}
+
+.item.card-header-li {
+    padding: 0px!important;
+}
+
+.ui.card div.extra.content {
+    padding: 0px;
+}
+
+.content.card-header-container {
+    padding: 0 0 0 14px!important;
+}
+.content.card-footer-container  {
+    padding: 0!important;
+    border-top: none!important;
+}
+
+/* .card-card .image > img { 
+    border-radius: unset!important;
+} */
+
+/* .card-card:hover{
+    background-color: rgba(255, 0, 0, 0.187)!important;
+}
+
+.card-card>img:hover {
+    background-color: rgba(255, 0, 0, 0.187)!important;
+}
+.name-author-card:hover {
+    background-color: none;
+} */
+
+a.ui.card {
+    transform: none!important;
+}
+
+.ui.card>.image>img, .ui.cards>.card>.image>img {
+    border-radius: unset!important;
+}
+.ui.selection.list.list>.item:hover, .ui.selection.list>.item:hover {
+    background-color: transparent!important;
+}
+
+.ui.card.card-card .image:hover {
+    filter:grayscale(70%);
+}
+
+.ui.icon.button.button-share-card > i:hover {
+    color: #db2828;
+}
+
+.ui.horizontal.label.name-author-card:hover {
+    color: #db2828;
+}
+.ui.card {
+    box-shadow: 0 0px 0px 0 #d4d4d5, 0 0 6px 2px #d4d4d5!important;
+}
